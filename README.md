@@ -6,4 +6,4 @@ It corresponds to the course "Computational Simulations II" at the São Paulo St
 
 Every folder contains a README.md file that provides an overview of the implemented methods, instructions for running the code, and examples of the generated results. The code is designed to be modular and easily extensible, allowing students to explore different physical systems and numerical techniques.
 
-The codes and documentation are still being developed and added with time, so please check back for updates. The repository is intended for educational purposes and can be used as a reference for students and researchers interested in computational physics ;)
+The codes and documentation are still being developed and added with time, so please check back for updates. The repository is licensed under the [MIT License](LICENSE) and is intended for educational purposes. It can be used as a reference for students and researchers interested in computational physics ;)
