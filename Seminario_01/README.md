@@ -31,11 +31,11 @@ The following figures are examples produced by the default command. They are sto
 
 ### Growth animation
 
-![Eden versus DLA animation](../results/seed_20261122/eden_vs_dla.gif)
+![Eden versus DLA animation](./images_examples/eden_vs_dla.gif)
 
 ### Animation frames
 
-![Eden and DLA animation frames](../results/seed_20261122/quadros_animacao.png)
+![Eden and DLA animation frames](./images_examples/quadros_animacao.png)
 
 
 
